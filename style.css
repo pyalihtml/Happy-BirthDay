@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    font-family: "Poppins", "san serif";
+}
+
+section {
+    position: relative;
+}
+
+.content {
+    z-index: 9;
+    background: rgba(0, 0, 0, 0.6);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0;
+    flex-direction: column;
+    left: 0;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    color: #fff;
+    text-align: center;
+    width: 70%;
+    font-size: 4rem;
+}
+
+span {
+    color: #fff;
+    font-size: 2rem;
+}
+
+.dash {
+    color: #42f642;
+    font-size: 2rem;
+}
+
+video {
+    margin-left: 8px;
+    width: 99%;
+}
