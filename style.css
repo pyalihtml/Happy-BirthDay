@@ -21,7 +21,7 @@ section {
     left: 0;
 }
 
-h1{
+h1,h4{
     font-family: 'Courier New', Courier, monospace;
     color: #fff;
     text-align: center;
